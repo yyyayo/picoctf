@@ -1,0 +1,62 @@
+
+Scan Time:     2021-09-21 18:19:18
+Target File:   /Users/sheen/CTF-workplace/picoCTF/Forensics/dolls.jpg
+MD5 Checksum:  4806014dc8ea9d679c157720fc7b0b03
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 594 x 1104, 8-bit/color RGBA, non-interlaced
+3226          0xC9A           TIFF image data, big-endian, offset of first image directory: 8
+272492        0x4286C         Zip archive data, at least v2.0 to extract, compressed size: 378954, uncompressed size: 383938, name: base_images/2_c.jpg
+651612        0x9F15C         End of Zip archive, footer length: 22
+
+
+Scan Time:     2021-09-21 18:19:19
+Target File:   /Users/sheen/CTF-workplace/picoCTF/Forensics/_dolls.jpg.extracted/base_images/2_c.jpg
+MD5 Checksum:  c4f2fd588b7f1efb9c0e2e0119bd95df
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 526 x 1106, 8-bit/color RGBA, non-interlaced
+3226          0xC9A           TIFF image data, big-endian, offset of first image directory: 8
+187707        0x2DD3B         Zip archive data, at least v2.0 to extract, compressed size: 196043, uncompressed size: 201445, name: base_images/3_c.jpg
+383805        0x5DB3D         End of Zip archive, footer length: 22
+383916        0x5DBAC         End of Zip archive, footer length: 22
+
+
+Scan Time:     2021-09-21 18:19:19
+Target File:   /Users/sheen/CTF-workplace/picoCTF/Forensics/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg
+MD5 Checksum:  7470b5dd03b61be8b33bf459b86967a9
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 428 x 1104, 8-bit/color RGBA, non-interlaced
+3226          0xC9A           TIFF image data, big-endian, offset of first image directory: 8
+123606        0x1E2D6         Zip archive data, at least v2.0 to extract, compressed size: 77651, uncompressed size: 79807, name: base_images/4_c.jpg
+201423        0x312CF         End of Zip archive, footer length: 22
+
+
+Scan Time:     2021-09-21 18:19:19
+Target File:   /Users/sheen/CTF-workplace/picoCTF/Forensics/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg
+MD5 Checksum:  c5638065a8531b742c33877696411caa
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 320 x 768, 8-bit/color RGBA, non-interlaced
+3226          0xC9A           TIFF image data, big-endian, offset of first image directory: 8
+79578         0x136DA         Zip archive data, at least v2.0 to extract, compressed size: 63, uncompressed size: 81, name: flag.txt
+79785         0x137A9         End of Zip archive, footer length: 22
+
+
+Scan Time:     2021-09-21 18:19:19
+Target File:   /Users/sheen/CTF-workplace/picoCTF/Forensics/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/_4_c.jpg.extracted/flag.txt
+MD5 Checksum:  aa0123210edab934c05e46b19a1108e7
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
